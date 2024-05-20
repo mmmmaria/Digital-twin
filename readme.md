@@ -9,10 +9,3 @@ The following files have been included:
 - Levels 3 and 4_Regressor for predicting t.ipynb
 
 If you have any inquiries, you can contact me at maria.megia@ugr.es
-
-
-```python
-
-```
-=======
-
