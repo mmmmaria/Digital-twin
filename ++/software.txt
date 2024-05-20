@@ -1,9 +1,0 @@
--GENERADOR WGAN-GP: WGAN-GP_01032023 con j=4 => WGAN_Model.py, network.py, backend.py, metrics.py, 
-
--GENERADOR CONDICIONAL WGAN-GP: LEOCLEMENTIAU_Maria-Copy39.py
-
--LEVEL 1 CLASIFICADOR BINARIO: Localize1class-CNN-Copy12.py
-
--LEVEL 2 CLASIFICADOR MULTICLASE: Localize6class-CNN-Copy14.py
-
--LEVEL 3 REGRESOR: Regression_F, d, t -tiempo1 - daños indep-Copy13.py
