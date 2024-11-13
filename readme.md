@@ -8,4 +8,4 @@ The following files have been included:
 - Level 2_Multiclass Classifier for Damage Location.ipynb
 - Levels 3 and 4_Regressor for predicting t.ipynb
 
-If you have any inquiries, you can contact me at maria.megia@ugr.es
+If you have any inquiries, you can contact me at mmegia@ugr.es
